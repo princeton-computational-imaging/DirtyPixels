@@ -1,0 +1,65 @@
+n04116512	rubber eraser, rubber, pencil eraser
+n03995372	power drill
+n03983396	pop bottle, soda bottle
+n03291819	envelope
+n03063599	coffee mug
+n03891251	park bench
+n07753592	banana
+n02870880	bookcase
+n02965783	car mirror
+n02823428	beer bottle
+n02974003	car wheel
+n04254777	sock, socks
+n03085013	computer keyboard, keypad
+n03793489	mouse, computer mouse
+n02783161	ballpoint, ballpoint pen, ballpen, Biro
+n04485082	tripod
+n02877765	bottlecap
+n03792782	mountain bike, all-terrain bike, off-roader
+n03782006	monitor
+n04131690	saltshaker, salt shaker
+n03761084	microwave, microwave oven
+n04557648	water bottle
+n03208938	disk brake, disc brake, disk brakes
+n04507155	umbrella
+n02786058	Band Aid
+n04153751	screw
+n04548362	wallet, billfold, notecase, pocketbook
+n04254120	soap dispenser
+n04356056	sunglasses, dark glasses, shades
+n04548280	wall clock
+n04447861	toilet seat
+n03958227	plastic bag
+n03717622	manhole cover
+n03481172	hammer
+n15075141	toilet tissue, toilet paper, bathroom tissue
+n04004767	printer
+n03924679	photocopier
+n03657121	lens cap, lens cover
+n04118776	rule, ruler
+n04009552	projector
+n03857828	oscilloscope, scope, cathode-ray oscilloscope, CRO
+n03492542	hard disc, hard disk, fixed disk
+n03388183	fountain pen
+n02840245	binder, ring-binder
+n02769748	backpack, back pack, knapsack, packsack, rucksack, haversack
+n03832673	notebook, notebook computer
+n03297495	espresso maker
+n02782093	balloon
+n03887697	paper towel
+n04069434	reflex camera
+n03180011	desktop computer
+n03179701	desk
+n02992529	cellular telephone, cellular phone, cellphone, cell, mobile phone
+n03637318	lampshade, lamp shade
+n03929660	pick, plectrum, plectron
+n03445777	golf ball
+n03666591	lighter, light, igniter, ignitor
+n04591713	wine bottle
+n02747177   trash can
+n04409515   tennis ball
+n03223299   doormat
+n04554684   washing machine
+n04557648   water bottle
+n04553703   washbasin
+
