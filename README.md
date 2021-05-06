@@ -17,15 +17,20 @@ Transactions on Graphics, 2021 | To be presented at SIGGRAPH, 2021
 </div>
 
 ## Installation
-Requirements:
-- Python 3.6
-- Tensorflow (v1.12)
-- Slim
-
 Clone this repository:
 ```
 git clone git@github.com:princeton-computational-imaging/DirtyPixels.git
 ```
+
+The project was developed using Python 3.6, Tensorflow (v1.12) and Slim.
+We provide an environment file to install all dependencies (creating an envirnoment called dirtypix):
+
+```
+conda env create -f environment.yml
+conda activate dirtypix
+```
+
+
 
 ## Running Experiments
 We provide code and data and trained models to reproduce the main results presented at the paper, and instructions on how to use this project for further research:
